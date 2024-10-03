@@ -11,9 +11,7 @@
 
 <img align="right" alt="coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.gyAMQBdiiAS2YIHtKgJKoAAAAA&pid=Api&P=0&w=300&h=300">
 
-- 🌱 I’m currently learning **Springboot**
-
-- 💬 Ask me about **Servlet, JSP, Hibernate**
+- 🌱 I’m currently learning **BlockChain**
 
 - 📫 How to reach me **pratikgupta040819@gmail.com**
 
